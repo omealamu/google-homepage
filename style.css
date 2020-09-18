@@ -1,0 +1,41 @@
+.search {
+    margin-top: 250px;
+}
+
+#search-form {
+    display: block;
+    width: 25%;
+    margin: 0 auto;
+}
+
+.buttons {
+    display: inline-block;
+    margin-top: 25px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+form {
+    text-align: center;
+}
+
+.nav-left {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    float: left;
+}
+
+.nav-right {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    float: right;
+}
+
+li {
+    display: inline;
+}
